@@ -1,5 +1,6 @@
 # Componenents
-
+|Package|Version|  
+|:-----:|:-----:|  
 | Python | 3 |
 | JAVA openjdk | 8 |
 | Spark | 2.4.7 |
